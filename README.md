@@ -30,7 +30,7 @@
 
 #### 5.  部分国外教材
 
-- 大二上**人体解剖学**课的超星平台资料区域有老师分享的很多教材，我个人推荐的非常好用的有：**《奈特人体解剖彩色图谱》（第3版）**、***Grey's Anatomy for Students 3rd Ed*** ，这些书在大二下学习**局部解剖学**也很有用；
+- 大二上**人体解剖学**课的超星平台资料区域有老师分享的很多教材，我个人推荐的非常好用的有：**《奈特人体解剖彩色图谱》（第3版）**、***Grey's Anatomy for Students 3rd Ed*** ，这些书在大二下学习**局部解剖学**也很有用
 
 
 
@@ -71,23 +71,23 @@
 
 - 点击进入后注册账号
 
-<img src="./image-20240821163529533.png" alt="image-20240821163529533" style="zoom:33%;" />
+<img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821163529533.png" alt="image-20240821163529533" width="800" />
 
 - 注册完毕登录后进入界面，点击左侧“分区版面”
 
-<img src="./image-20240821163745352.png" alt="image-20240821163745352" style="zoom:33%;" />
+<img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821163745352.png" alt="image-20240821163745352" width="800" />
 
 - 点击第二个版面“院系风采”的“FDU_SHMC - 上海医学院”
 
-<img src="./image-20240821163924469.png" alt="image-20240821163924469" style="zoom: 35%;" />
+<img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821163924469.png" alt="image-20240821163924469" width="800" />
 
 - 在上方“搜索”处检索想要查询的课程名称即可
 
-<img src="./image-20240821164024432.png" alt="image-20240821164024432" style="zoom: 50%;" />
+<img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821164024432.png" alt="image-20240821164024432" width="800" />
 
-<img src="./image-20240821164138846.png" alt="image-20240821164138846" style="zoom: 50%;" />
+<img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821164138846.png" alt="image-20240821164138846" width="500" />
 
-<img src="./image-20240821164321159.png" alt="image-20240821164321159" style="zoom:50%;" />
+<img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821164321159.png" alt="image-20240821164321159" width="800" />
 
 ### 三、其他可能需要使用的资料
 
@@ -113,7 +113,7 @@
 
 #### 4. 电子书
 
-- [***Z-Library*** ](https://zh.z-library.rs/)可以搜到很多电子书并下载（包括很多外国教材），但需要梯子才可以注册并打开
+- [***Z-Library*** ](https://zh.z-library.rs/)可以搜到很多电子书并下载（包括很多外国教材）
 - [复旦大学图书馆](https://library.fudan.edu.cn/)借阅服务
 
 #### 5. 复旦大学图书馆
@@ -122,11 +122,11 @@
 
 - 下载路径：点击[此处](https://library.fudan.edu.cn/)进入图书馆官网，下拉点击“工具软件”（或直接[点此](https://library.fudan.edu.cn/e8/af/c42801a518319/page.htm)进入），点击对应软件名称即可进行下载
 
-  <img src="./image-20240821195001242.png" alt="image-20240821195001242" style="zoom:50%;" />
+  <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821195001242.png" alt="image-20240821195001242" width="800" />
 
 - 自学途径：点击[此处](https://library.fudan.edu.cn/)进入图书馆官网，点击右侧“培训讲座”，点击“日常培训”，找到两个课程的课件，点击后获得课件
 
-<img src="./image-20240821192646862.png" alt="image-20240821192646862" style="zoom:50%;" />
+<img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821192646862.png" alt="image-20240821192646862" width="800" />
 
 ## 经验分享
 
