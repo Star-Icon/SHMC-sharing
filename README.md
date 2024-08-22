@@ -69,6 +69,10 @@
 
 ② 复旦**日月光华bbs**论坛（https://bbs.fudan.edu.cn)
 
+③ 关注微信公众号“**B1休息区**”查询
+
+以下为**日月光华bbs**的使用方法：
+
 - 点击进入后注册账号
 
 <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821163529533.png" alt="image-20240821163529533" width="800" />
