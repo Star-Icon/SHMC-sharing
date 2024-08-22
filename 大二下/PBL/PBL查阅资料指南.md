@@ -38,7 +38,7 @@ PBL给的案例基本就是这样，这只是个很简单的案例，但是案�
 
 1. 在浏览器（搜索引擎推荐必应，不推荐百度）中查找最新的指南是哪一年的
 
-   <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501174111989.png" alt="image-20240501174111989" width="800" />
+   <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501125125570.png" alt="image-20240501174111989" width="800" />
 
    
 
@@ -46,7 +46,7 @@ PBL给的案例基本就是这样，这只是个很简单的案例，但是案�
 
    <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501170419344.png" alt="image-20240501170419344" width="800" />
 
-   最好用必应搜索，在必应搜索结果找到yiigle.com网址（即中华医学期刊全文数据库网址）对应的检索结果，看到最新的指南2020年的。
+   最好用必应搜索，在必应搜索结果找到[yiigle.com](https://www.yiigle.com)网址（即中华医学期刊全文数据库网址）对应的检索结果，看到最新的指南2020年的。
 
 2. 进入[复旦大学图书馆](http://www.library.fudan.edu.cn)官网，点击**数据库导航**，选择字母为W，点击**万方数据-中华医学期刊**，进入检索界面。或者也可以直接在浏览器输入[yiigle.com](https://www.yiigle.com)（需要校园网）
 
@@ -56,29 +56,28 @@ PBL给的案例基本就是这样，这只是个很简单的案例，但是案�
 
    
 
-   ![image-20240501175118419](https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501175118419.png)
+   <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501175118419.png" alt="image-20240501175118419" width="800" />
 
-3. 选择指南，搜索“哮喘”，点击左侧的指南制定者为“中华医学会呼吸病学分会”（如果要搜索的是冠心病等，应当点击“中华医学会心血管病学分会”），若不点击检索结果会比较冗余。
+4. 选择指南，搜索“哮喘”，点击左侧的指南制定者为“中华医学会呼吸病学分会”（如果要搜索的是冠心病等，应当点击“中华医学会心血管病学分会”），若不点击检索结果会比较冗余。
 
-   ![image-20240501175513337](https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501175513337.png)
-
+   <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501175513337.png" alt="image-20240501175513337" width="800" />
    
 
    下拉第三个即我们需要找的指南，可以选择在线看，也可以下载PDF查看
 
-   ![image-20240501175716604](https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501175716604.png)
+   <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501175716604.png" alt="image-20240501175716604" width="800" />
 
    
 
    进入后即可查看关于哮喘的定义、诊断、鉴别诊断和治疗等等。
    
-   ![image-20240501180231161](https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501180231161.png)
+   <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501180231161.png" alt="image-20240501180231161" width="800" />
 
 ### 3. 文献
 
 这里推荐使用PubMed，仍然进入[复旦大学图书馆](http://www.library.fudan.edu.cn.)官网，在数据库导航中查找PubMed，在检索界面搜索Asthma，在结果的左栏中选择Review，阅读自己想要读的即可。
 
-![image-20240501182028942](https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501182028942.png)
+<img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501182028942.png" alt="image-20240501182028942" width="800" />
 
 
 
@@ -100,7 +99,7 @@ PBL给的案例基本就是这样，这只是个很简单的案例，但是案�
 
 7. 共享收集到的和个人学习的信息（小组报告和讨论）
 
-   <img src="./image-20240501195021067.png" alt="image-20240501195021067" style="zoom: 67%;" />
+   <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240501195021067.png" alt="image-20240501195021067" width="800" />
 
 在这几步当中，弄清楚相关的术语以及收集信息都需要查阅相应的资料，有价值的资料可以让讨论更流畅也更有针对性。此外这门课不仅是学习医学知识，更重要的是用心体会临床诊疗的思路和临床思维。虽然PBL这门课被很多人诟病，但希望学妹可以在PBL学习中获得收获。
 
