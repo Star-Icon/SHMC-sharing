@@ -1,5 +1,5 @@
 # SHMC-sharing
-分享本人在上医学习两年来用到的相关资料以及学习经验，希望可以帮到学弟学妹（仅为一孔之见，请结合自身情况取用哦）。
+分享本人在上医学习两年来用到的相关资料以及学习经验，希望可以帮到学弟学妹（仅为一孔之见，请结合自身情况取用）。
 
 ## 资源分享
 
@@ -93,7 +93,7 @@
 
 <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821164321159.png" alt="image-20240821164321159" width="800" />
 
-### 三、其他可能需要使用的资料
+### 三、其他需要的资料
 
 #### 1. 大二上
 - **组胚**
@@ -135,6 +135,20 @@
 - **局部解剖学**
   - 《[给大体老师的一封信](https://github.com/Star-Icon/SHMC-sharing/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E5%B1%80%E9%83%A8%E8%A7%A3%E5%89%96%E5%AD%A6)》
 
+#### 3. 大三上
+
+- **功能学实验**
+  - 本人和前人**实验报告**（不公开）
+
+- **中医学概论**
+  - *e-Learning*需提交的[作业](https://github.com/Star-Icon/SHMC-sharing/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E4%B8%AD%E5%8C%BB%E5%AD%A6%E6%A6%82%E8%AE%BA)
+- **生物医学信息学概论**
+  - [平时作业](https://github.com/Star-Icon/SHMC-sharing/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E6%A6%82%E8%AE%BA/%E5%B9%B3%E6%97%B6%E4%BD%9C%E4%B8%9A)
+  - 期末大纲及对应[答案](https://github.com/Star-Icon/SHMC-sharing/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%94%9F%E7%89%A9%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E6%A6%82%E8%AE%BA/%E6%9C%9F%E6%9C%AB%E5%A4%A7%E7%BA%B2%E5%8F%8A%E9%97%AE%E9%A2%98%E5%9B%9E%E7%AD%94)
+
+- [**医学伦理与法规**](https://github.com/Star-Icon/SHMC-sharing/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E5%8C%BB%E5%AD%A6%E4%BC%A6%E7%90%86%E4%B8%8E%E6%B3%95%E8%A7%84)
+  - 超星作业
+  - 期末小论文
 
 
 ### 四、本人推荐的网络资源
@@ -170,6 +184,9 @@
 
 <img src="https://github.com/Star-Icon/SHMC-sharing/blob/main/screenshot/image-20240821192646862.png" alt="image-20240821192646862" width="800" />
 
+#### 6. R语言学习
+
+- 参考书：[R for Data Science(2e)](https://r4ds.hadley.nz/)
 ## 经验分享
 
 待更新……
