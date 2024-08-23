@@ -40,16 +40,9 @@
 
 - **戴春峰笔记**
 
-  链接：https://pan.baidu.com/s/1f27Qdnhm-XBXA8jSnkbNZw?pwd=star <br>
-  提取码：star
 
 - **A+笔记**
 
-  ① 链接：https://pan.baidu.com/s/1u_GagKLfkNMkF8J9l7g29A?pwd=star <br>
-       提取码：star
-
-  ② 链接：https://pan.baidu.com/s/17XLW2oX8-jgaPApvUPQW_Q?pwd=star <br>
-       提取码：star（按照学期分类）
 
 #### 2. 习题
 
