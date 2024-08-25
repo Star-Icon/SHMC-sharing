@@ -60,9 +60,9 @@
 
 ① 购买**大礼包**
 
-② 复旦**日月光华bbs**论坛（https://bbs.fudan.edu.cn)
+② 复旦[**日月光华bbs**](https://bbs.fudan.edu.cn)论坛（https://bbs.fudan.edu.cn)
 
-③ 关注微信公众号“**B1休息区**”查询
+③ 关注微信公众号“[**B1休息区**](https://mp.weixin.qq.com/s/9EVG5-8rTIlD1HGaCJPUNQ)”查询
 
 以下为**日月光华bbs**的使用方法：
 
