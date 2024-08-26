@@ -222,13 +222,11 @@
 
 ② 看不懂的想不明白的建议参考***Grey's Anatomy for Students 3rd Ed*** 、**《奈特人体解剖彩色图谱》（第3版）**（超星上有），也可以结合app<a href="https://apps.apple.com/cn/app/id1117998129"> 2025人体解剖学图谱</a>（App Store搜索, 大概要￥200，可凑打折时买 ) 
 
-<a href = "https://apps.apple.com/cn/app/id1117998129">
-  <h3 align="center">
-    <picture>
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt=" Visible Body app" height="40" /> 
-    </picture>
-  </h3>
-</a>
+
+<p align="center">
+  <a href = "https://apps.apple.com/cn/app/id1117998129"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt=" Visible Body app" height="40" /> 
+  </a>
+</p>
 
 ③ 最难的部分是**脉管**系统和**神经**系统（你会发现神经系统如果不复习大概率在课堂上都听不懂老师在讲啥）
 
